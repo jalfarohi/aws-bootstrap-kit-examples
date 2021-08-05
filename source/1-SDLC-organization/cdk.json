@@ -12,8 +12,8 @@
     "domain_name": "jorgealfaro.net",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
-      "us-east-1",
-      "eu-west-1"
+      "us-east-2",
+      "us-east-1"
     ]
   }
 }
